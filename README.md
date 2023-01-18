@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Najib Bohli
 
 <div align="center">
-  <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="1000" height="300"/>
+  <img src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif" width="1000" height="300"/>
 </div>
 
 
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on building my devops knowledge
 - 🌱 I’m currently learning Backend Development
 - 👯 My Area of Interest's are **Cloud computing, Web development, Game development, Web design**
-- ⚡ Fun fact I'm a Gamer
+- ⚡ Fun fact I'm a Gamer and a Music Producer
 - 📫 How to reach me najibbohli07@gmail.com
 
  -------------------------------
