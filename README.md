@@ -6,7 +6,7 @@
 - 
 
 
-https://github-readme-stats.vercel.app/api?Najib669=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
+https://github-readme-stats.vercel.app/apiNajib669=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
