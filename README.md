@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on building my devops knowledge
 - 🌱 I’m currently learning Backend Development
 - 👯 My Area of Interest's are **Cloud computing, Web development, Game development, Web design**
--⚡ Fun fact I'm a Gamer
-📫 How to reach me najibbohli07@gmail.com
+- ⚡ Fun fact I'm a Gamer
+- 📫 How to reach me najibbohli07@gmail.com
 
  -------------------------------
  
