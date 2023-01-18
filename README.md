@@ -9,10 +9,23 @@
 
 - 🔭 I’m currently working on building my devops knowledge
 - 🌱 I’m currently learning Backend Development
+- 👯 My Area of Interest's are **Cloud computing, Web development, Game development, Web design**
+
 -⚡ Fun fact I'm a Gamer
 📫 How to reach me najibbohli07@gmail.com
+
+ -------------------------------
  
+ <h3 align="left">Connect with me:</h3>
  
+ <p align="left">
+<a href="https://twitter.com/Flvre_strxghtup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayaadhav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lester187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-aadhav-251773170" height="30" width="40" /></a>
+<a href="https://www.facebook.com/LAFlarestrxghtup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajayaadhav10" height="30" width="40" /></a>
+<a href="https://www.instagram.com/studiowithflvre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayaadhav" height="30" width="40" /></a>
+</p>
+
+
  -------------------------------
 
 ### :fire: My Stats :
