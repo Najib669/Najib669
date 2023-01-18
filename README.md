@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Najib Bohli
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="1000" height="300"/>
+  <img src="https://media.giphy.com/media/iXcyh07Blnf2NY5TKE/giphy.gif" width="1000" height="300"/>
 </div>
 
 
